@@ -81,7 +81,7 @@ SimChain is a pure C# educational blockchain implementation that demonstrates bl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/simchain.git
+git clone https://github.com/DiscardedOne/SimChain.git
 cd simchain
 ```
 
