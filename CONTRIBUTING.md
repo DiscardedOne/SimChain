@@ -40,7 +40,7 @@ Then, open a pull request on GitHub. Please:
 
 ## Reporting Bugs and Suggesting Features
 
-If you’ve found a bug or have an idea, [open a new issue](https://github.com/SimChain/issues/new). Please include:
+If you’ve found a bug or have an idea, [open a new issue](https://github.com/DiscardedOne/SimChain/issues/new). Please include:
 - A clear title and description
 - Steps to reproduce (for bugs)
 - Screenshots or logs (if applicable)
