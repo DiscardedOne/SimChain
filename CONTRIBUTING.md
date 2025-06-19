@@ -8,9 +8,9 @@ Whether it's fixing a bug, proposing a feature, improving documentation, or simp
 ### 1. Fork and Clone
 - Fork the repo to your own account.
 - Clone it locally:  
-  \`\`\`bash
+  \```bash
   git clone https://github.com/DiscardedOne/SimChain.git
-  \`\`\`
+  ```
 
 ### 2. Create a Branch
 Create a new branch for your feature or fix:
