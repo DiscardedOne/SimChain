@@ -8,15 +8,15 @@ Whether it's fixing a bug, proposing a feature, improving documentation, or simp
 ### 1. Fork and Clone
 - Fork the repo to your own account.
 - Clone it locally:  
-  \```bash
+  ```bash
   git clone https://github.com/DiscardedOne/SimChain.git
   ```
 
 ### 2. Create a Branch
 Create a new branch for your feature or fix:
-\`\`\`bash
+```bash
 git checkout -b your-feature-name
-\`\`\`
+```
 
 ### 3. Code and Commit
 Make your changes. Try to keep commits small and focused.  
@@ -24,9 +24,9 @@ Use clear, descriptive commit messages.
 
 ### 4. Push and Submit a Pull Request
 Push your branch:
-\`\`\`bash
+```bash
 git push origin your-feature-name
-\`\`\`
+```
 Then, open a pull request on GitHub. Please:
 - Describe your changes clearly.
 - Link to any related issues.
