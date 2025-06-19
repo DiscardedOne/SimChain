@@ -73,7 +73,7 @@ SimChain is a pure C# educational blockchain implementation that demonstrates bl
 
 ### Quick Start (No Development Setup Required)
 
-If you don't want to tinker with code and just want to run the exe, go to bin/Debug/.net8.0 and run the BlockchainSim.exe to start the program in a terminal.
+If you don't want to tinker with code and just want to run the exe, go to bin/Debug/.net9.0 and run the BlockchainSim.exe to start the program in a terminal. Just make sure that you have the correct version of [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.301-windows-x64-installer) installed in your system.
 
 ### Prerequisites
 
