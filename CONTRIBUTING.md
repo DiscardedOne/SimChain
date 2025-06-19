@@ -1,4 +1,3 @@
-\```markdown
 # Contributing to SimChain
 
 First off, thanks for taking the time to contribute! 🎉  
@@ -55,4 +54,3 @@ If you’ve found a bug or have an idea, [open a new issue](https://github.com/S
 ---
 
 Thanks for helping make this project better for everyone! 🙌
-\```
